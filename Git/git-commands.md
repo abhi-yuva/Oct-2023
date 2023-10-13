@@ -8,3 +8,4 @@
 8. Git Init
 9. Git Configure
 10. Git Status
+11. Git log
