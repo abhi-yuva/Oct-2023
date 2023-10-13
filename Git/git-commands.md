@@ -1,0 +1,10 @@
+1. Git Clone
+2. Git Pull
+3. Git Add
+4. Git Commit
+5. Git Restore
+6. Git Reset
+7. Git Push
+8. Git Init
+9. Git Configure
+10. Git Status
