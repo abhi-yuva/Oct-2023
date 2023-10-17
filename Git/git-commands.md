@@ -9,3 +9,6 @@
 9. Git Configure
 10. Git Status
 11. Git log
+12. Git log --online
+13. Git Show
+14. Git Diff/ Git Difference
