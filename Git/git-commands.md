@@ -13,3 +13,6 @@
 13. Git Show
 14. Git Diff/ Git Difference
 15. Git commit --amend
+16. Git Branch
+17. Git checkout
+18. Git Reflog
